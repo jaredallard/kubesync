@@ -28,8 +28,7 @@ m.Unlock(ctx)
 ```
 
 See [the examples](./example_test.go) for a more complete example of
-usage, or the [pkg.go.dev
-documentation](https://pkg.go.dev/github.com/jaredallard/kubesync)
+usage, or the [pkg.go.dev documentation](https://pkg.go.dev/github.com/jaredallard/kubesync)
 
 ## License
 
