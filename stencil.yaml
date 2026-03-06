@@ -3,5 +3,7 @@ arguments:
   org: jaredallard
   license: LGPL-3.0
   library: true
+  vcs: forgejo
+  vcs_host: git.rgst.io
 modules:
   - name: github.com/rgst-io/stencil-golang
