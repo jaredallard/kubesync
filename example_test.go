@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jaredallard/kubesync"
+	"go.rgst.io/jaredallard/kubesync/v2"
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/client-go/kubernetes/fake"
 )

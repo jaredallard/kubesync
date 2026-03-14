@@ -5,7 +5,7 @@ Library for creating mutexes backed by [Kubernetes leases].
 ## Usage
 
 ```bash
-go get github.com/jaredallard/kubesync
+go get go.rgst.io/jaredallard/kubesync/v2
 ```
 
 Basic example:
@@ -28,7 +28,7 @@ m.Unlock(ctx)
 ```
 
 See [the examples](./example_test.go) for a more complete example of
-usage, or the [pkg.go.dev documentation](https://pkg.go.dev/github.com/jaredallard/kubesync)
+usage, or the [pkg.go.dev documentation](https://pkg.go.dev/go.rgst.io/jaredallard/kubesync/v2)
 
 ## License
 

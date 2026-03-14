@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jaredallard/kubesync"
+	"go.rgst.io/jaredallard/kubesync/v2"
 	"gotest.tools/v3/assert"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
